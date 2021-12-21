@@ -3,7 +3,7 @@ A simple document scanner made out of opencv-python with webcam feed supported.
 
 Here's the workflow from feeding the image to scanning it:
 
-![Workflow](https://github.com/s-hash-exe/DocumentScanner/blob/master/document.jpg)
+![Workflow](https://github.com/s-hash-exe/DocumentScanner/blob/master/Workflow.PNG)
 
 ## Elements
 
